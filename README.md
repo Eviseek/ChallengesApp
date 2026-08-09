@@ -1,4 +1,4 @@
-# Workout Tracker (iOS)
+# Workouts and Challenges App (iOS)
 
 A SwiftUI workout tracker with monthly team challenges. Log your sets between exercises,
 follow along on the Lock Screen while you train, and compete on a leaderboard against a
